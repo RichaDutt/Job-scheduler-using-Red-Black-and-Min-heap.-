@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522430744 source:c:\users\richa\documents\jobscheduler7\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<string.h>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdlib>
+
